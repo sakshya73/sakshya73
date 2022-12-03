@@ -27,7 +27,7 @@
 ![Jira](https://img.shields.io/badge/-jira-blue?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)
 
-## Connect with me
+## Social
 
 <p align="left">
 <a href="https://twitter.com/AroraSakshya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshya73" height="30" width="40" /></a>
