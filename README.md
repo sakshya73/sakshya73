@@ -7,6 +7,12 @@
 - 🧑🏻‍💻 Currently working on React and React Native.
 - ✉️ Reach out to me at [sakshya.work@gmail.com](mailto:sakshya.work@gmail.com)
 
+## Blog posts
+
+- [Adding custom fonts in React-Native](https://techblog.geekyants.com/adding-custom-fonts-a-complete-guide-react-native-060).
+- [Integrating GitHub Actions For Automating App Builds](https://techblog.geekyants.com/github-actions-for-automating-builds-for-your-app).
+- [Give your React-Native App a Dynamic App Icon](https://techblog.geekyants.com/give-your-react-native-app-a-dynamic-app-icon).
+
 ## Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
